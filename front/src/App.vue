@@ -14,7 +14,7 @@
   bottom: 0;
   left: 0;
   margin: auto;
-  background: rgb(255, 204, 0);
+  background: rgb(245 222 179);
   border-radius: 20px;
   box-sizing: border-box;
   padding: 20px;
@@ -89,6 +89,11 @@
 .error {
   border: 1px solid #ff0000;
   background: rgb(255, 170, 170);
+}
+.timer {
+  font-size: 64px;
+  font-weight: bold;
+  color: #333;
 }
 
 </style>
